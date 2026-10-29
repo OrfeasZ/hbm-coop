@@ -10,7 +10,7 @@ Always wanted to play dress-up with your friends and torment all those poor NPCs
 
 This mod only supports the latest retail version of the game on either [Steam](https://store.steampowered.com/app/6860/Hitman_Blood_Money/) or [GOG](https://www.gog.com/en/game/hitman_blood_money).
 
-1. Download the mod installer from [the latest release](/releases).
+1. Download the mod installer from [the latest release](https://github.com/OrfeasZ/hbm-coop/releases).
 2. Run the installer and select the folder where your game is installed.
 3. Run the game as usual and select **CO-OP** from the main menu.
 4. Select a co-op profile to use or create a new one. You can also copy an existing single-player profile to keep your unlocks. Co-op progress is separate from single-player progress.
@@ -52,4 +52,4 @@ Other controls use your existing game bindings. You can change the **PARTNER VIE
 - No manual mission save/load during co-op.
 - Menus and inventory do not pause co-op gameplay.
 
-This mod has been tested relatively thoroughly and *most* things should work as expected. However, there's almost definitely going to be some things that do not. Please report any issues you encounter [here](/issues). If your game crashes, you will find an `hbm-coop-XXXX.log` file in your game folder with crash details. Please make sure to include that in any issues you open, along with information of what you were doing before the crash!
+This mod has been tested relatively thoroughly and *most* things should work as expected. However, there's almost definitely going to be some things that do not. Please report any issues you encounter [here](https://github.com/OrfeasZ/hbm-coop/issues). If your game crashes, you will find an `hbm-coop-XXXX.log` file in your game folder with crash details. Please make sure to include that in any issues you open, along with information of what you were doing before the crash!
