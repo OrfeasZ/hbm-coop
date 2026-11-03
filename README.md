@@ -53,3 +53,7 @@ Other controls use your existing game bindings. You can change the **PARTNER VIE
 - Menus and inventory do not pause co-op gameplay.
 
 This mod has been tested relatively thoroughly and *most* things should work as expected. However, there's almost definitely going to be some things that do not. Please report any issues you encounter [here](https://github.com/OrfeasZ/hbm-coop/issues). If your game crashes, you will find an `hbm-coop-XXXX.log` file in your game folder with crash details. Please make sure to include that in any issues you open, along with information of what you were doing before the crash!
+
+## Special thanks
+
+Special thanks to **Lunaria**, **TheKotti**, and **Timse** for patiently helping me test this ❤️
