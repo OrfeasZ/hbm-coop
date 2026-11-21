@@ -30,6 +30,7 @@ This mod includes several additional enhancements to the core game, including:
 - Native mouse cursor in menus, improved mouse capture and focus handling.
 - The game continues running when its window loses focus.
 - Framerate is capped to 60fps to prevent glitches.
+- Statman (rating tracker) is integrated directly into the mod. You can enable it under options.
 
 You can find new settings in the game's options menu. Changing between exclusive fullscreen and other display modes requires restarting the game.
 
